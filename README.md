@@ -9,6 +9,6 @@ An Exploratory data analysis of the worldwide box office data to extract meaning
 ---
 
 ## License
->You can check out the full license [here]()
+>You can check out the full license [here](https://github.com/chilloutwithanas/TMDb-Worldwide-BoxOffice-DataAnalysis/blob/master/LICENSE)
 
 This project is licensed under the terms of the **MIT** license.
