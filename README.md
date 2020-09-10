@@ -16,8 +16,6 @@
 
 ![Revenue Graph](./revenue.png)
 
----
-
 ## Usage
 After you clone this repo to your desktop, go to its root directory and run Jupter.
 
