@@ -11,10 +11,9 @@
  </p>
 <h4 align="center">An Exploratory data analysis of the worldwide box office data to extract meaningful relationships between various parameters.</h4>
 
-
-
-
 ![Revenue Graph](./revenue.png)
+
+---
 
 ## Usage
 After you clone this repo to your desktop, go to its root directory and run Jupter.
