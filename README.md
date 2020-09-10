@@ -1,6 +1,10 @@
-TMDb-Worldwide-BoxOffice-DataAnalysis
-=====================================
-
+<h1 align="center">TMDb-Worldwide-BoxOffice-DataAnalysis</h1>
+<p align="center">
+    <a href="https://twitter.com/theanaskhan">
+    <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
+         alt="GitHub tweet">
+ </p>
+<h4 align="center">The forgotten story of the images.</h4>
 
 An Exploratory data analysis of the worldwide box office data to extract meaningful relationships between various parameters.
 
