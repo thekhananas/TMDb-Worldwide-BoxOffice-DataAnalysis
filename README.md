@@ -4,9 +4,15 @@
     <img src="https://img.shields.io/twitter/url/https/github.com/ArmynC/ArminC-AutoExec.svg?style=flat-square&logo=twitter"
          alt="GitHub tweet">
  </p>
-<h4 align="center">The forgotten story of the images.</h4>
+ <p align="center">
+    <a href="https://www.linkedin.com/in/thekhananas/">
+    <img src="https://img.shields.io/badge/anas--khan-welcome-blue"
+         alt="LinkedIn Anas">
+ </p>
+<h4 align="center">An Exploratory data analysis of the worldwide box office data to extract meaningful relationships between various parameters.</h4>
 
-An Exploratory data analysis of the worldwide box office data to extract meaningful relationships between various parameters.
+
+
 
 ![Revenue Graph](./revenue.png)
 
